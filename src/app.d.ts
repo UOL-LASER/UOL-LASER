@@ -15,9 +15,4 @@ declare module '*.docx' {
 	export default source;
 }
 
-declare module '$lib/assets/ORDER FORM BLANK.docx' {
-	const source: string;
-	export default source;
-}
-
 export {};
